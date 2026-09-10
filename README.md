@@ -36,6 +36,7 @@ The MQ-2 gas sensor's value is continuously updated on the dashboard. If sensor 
 Additionally, the exhaust fan relay can also be turned on through the online dashboard. 
 
 
+<img width="1000" height="541" alt="image" src="https://github.com/user-attachments/assets/4db84f1c-2065-446c-b4ac-cf7040d5e5ce" />
 
 
 
