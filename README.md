@@ -16,7 +16,7 @@ Components we were provided with:
 4. MQ-2 gas sensor
 5. DHT11
 
-<img width="200" height="400" alt="Circ" src="https://github.com/user-attachments/assets/3c350890-4b69-48ca-ac63-d540f275e1aa" />
+<img width="1000" height="900" alt="Circ" src="https://github.com/user-attachments/assets/3c350890-4b69-48ca-ac63-d540f275e1aa" />
 
 
 We used Blynk platform to generate dashboard.
